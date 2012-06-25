@@ -1,1 +1,0 @@
-An simple web app that makes MeMe's using php. 
